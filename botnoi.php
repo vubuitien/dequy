@@ -7,7 +7,7 @@
    <body>
    		<div align="center">
 	   		<h1>Thuật toán sắp xếp nổi bọt theo thứ tự tăng dần</h1>
-	       	<?php 
+	       		<?php 
 				function bubble($swapping){
 					$tong = count($swapping);
 					for ($i = 0; $i < ($tong - 1); $i++){
